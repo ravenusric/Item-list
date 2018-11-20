@@ -35,3 +35,8 @@ h1 {
 .myButton {
    background-color: greenyellow; 
 }
+
+li:hover {
+    transition: transform 0.25s;
+    background-color: rgb(109, 250, 15);
+}
